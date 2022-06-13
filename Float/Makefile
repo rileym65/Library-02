@@ -12,6 +12,7 @@ OBJS=\
 	fpret0.prg \
 	fpreta.prg \
 	fpretb.prg \
+	fromsci.prg \
 	ftoa.prg \
 	ftoi.prg \
 	gtfp.prg \
@@ -21,6 +22,7 @@ OBJS=\
 	ltefp.prg \
 	mulfp.prg \
 	nefp.prg \
+	round45.prg \
 	sgnfp.prg \
 	subfp.prg
 
