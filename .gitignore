@@ -1,0 +1,5 @@
+*.build
+*.prg
+*.lst
+*.lib
+
