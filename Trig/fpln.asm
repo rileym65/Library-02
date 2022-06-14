@@ -14,6 +14,8 @@
 ; ******************************************************
               proc     fpln
 
+.link .requires fpdata
+
               extrn    addfpi
               extrn    addtows
               extrn    divfpi

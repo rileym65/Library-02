@@ -16,6 +16,9 @@
 ; ******************************************************
               proc     fpcos
 
+.link .requires fpdata
+.link .requires trigdata
+
               extrn    addtows
               extrn    fact
               extrn    fp_1

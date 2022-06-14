@@ -13,6 +13,8 @@
 ; *************************************************
               proc     ftoa
 
+.link .requires fpdata
+
               extrn    divfpi
               extrn    fp_10
               extrn    itoa32

@@ -13,6 +13,8 @@
 ; ********************************************
               proc     atof
 
+.link .requires fpdata
+
               extrn    atoi32
               extrn    divfpi
               extrn    fp_10

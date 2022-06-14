@@ -10,6 +10,8 @@
 ; ******************************************************
               proc     fpsqrt
 
+.link .requires fpdata
+
               extrn    addfpi
               extrn    addtows
               extrn    divfpi

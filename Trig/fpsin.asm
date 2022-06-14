@@ -16,6 +16,8 @@
 ; ******************************************************
               proc     fpsin
 
+.link .requires trigdata
+
               extrn    addfpi
               extrn    addtows
               extrn    divfpi
